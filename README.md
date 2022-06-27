@@ -11,4 +11,4 @@
 
 #
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Jeong-Hoon-Yang)](https://solved.ac/yjhoon3658)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Jeong-Hoon-Yang)]
