@@ -10,4 +10,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Hoon-Yang&show_icons=true&theme=tokyonight)
 
 #
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Jeong-Hoon-Yang)](https://solved.ac/yjhoon3658/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjhoon3658)](https://solved.ac/yjhoon3658/)
