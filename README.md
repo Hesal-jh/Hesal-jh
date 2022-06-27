@@ -1,6 +1,6 @@
 - 👋 I'm @Jeong-Hoon-Yang
 - 🔭 I’m computer engineering major
 - 🌱 I’m currently learning React-Native
-- 📫 How to reach me: <img src="https://img.shields.io/badge/yjhoon3658@naver.com-brightgreen?style=flat-square&logo=Naver&logoColor=white"/>
+- 📫 How to reach me:  <img src="https://img.shields.io/badge/yjhoon3658@naver.com-brightgreen?style=flat-square&logo=Naver&logoColor=white"/>  <img src="https://img.shields.io/badge/yjhoon36589@gmail.com-important?style=flat-square&logo=Gmail&logoColor=white"/>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
