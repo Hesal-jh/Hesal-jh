@@ -2,6 +2,7 @@
 - 🔭 I’m computer engineering major
 - 🌱 I’m currently learning Java, Spring at SSAFY
 - 📫 How to reach me:  <a href="mailto: yjhoon3658@naver.com" target="_blank"><img src="https://img.shields.io/badge/yjhoon3658@naver.com-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="mailto: yjhoon36589@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yjhoon36589@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+- 📃 My Blog : <a href="mailto: https://babydeveloperdiary.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/https://babydeveloperdiary.tistory.com/-black?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 #
 - 🔥 TechSkill
